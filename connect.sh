@@ -1,0 +1,1 @@
+ssh -i private/mariadb-3.pem ubuntu@13.235.23.240
